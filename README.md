@@ -1,5 +1,5 @@
 # Hello-PySC2
- Bacic ML project with TensorFlow and StarCraft II
+ Basic ML project with TensorFlow and StarCraft II
 
 ## Reference
 
