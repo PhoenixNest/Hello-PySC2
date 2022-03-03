@@ -2,6 +2,7 @@
 *.DS_Store
 .idea
 /BurnySC2/ladder/sc2
+/BurnySC2/local/common_agent/__pycache__
 /BurnySC2/local/rush_agent/__pycache__
 /BurnySC2/local/train_data
 /BurnySC2/resources
